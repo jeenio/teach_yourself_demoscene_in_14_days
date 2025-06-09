@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Teach Yourself Demoscene in 14 Days'
+theme = "hello-friend-ng"
